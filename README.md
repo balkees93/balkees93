@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React,mongoDB,nodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/balkees93?tab=repositories](https://github.com/balkees93?tab=repositories)
-
 - 📫 How to reach me **balkees.mohamed93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
